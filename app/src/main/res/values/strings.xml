@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="login_string">Login</string>
+    <string name="login_label">Login label for loging purposes</string>
+    <string name="password_string">Password</string>
+    <string name="password_label">Password label for loging purposes</string>
+    <string name="submit_string">Submit Login</string>
+    <string name="submit_sucess">Submit Sucess</string>
+    <string name="welcome_login_sucess">Welcome to the app!</string>
+</resources>
