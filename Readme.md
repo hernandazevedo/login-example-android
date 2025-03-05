@@ -12,4 +12,9 @@ Password: password
 
 ## Screenshots
 
-TODO
+# Login Error
+![loginError](https://github.com/user-attachments/assets/ccb78c5b-850f-47ab-b557-6e3d647cd325)
+
+# Login Success
+![loginSuccess](https://github.com/user-attachments/assets/2e6c7521-5b9a-4739-900e-35987a0e922b)
+
